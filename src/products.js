@@ -7,55 +7,83 @@ import product6 from './assets/6.webp'
 import product7 from './assets/7.webp'
 import product8 from './assets/8.webp'
 
-
-
-export const PRODUCTS = [
+export const products = [
   {
     id: 1,
-    productName: "IPhone",
-    price: 999.0,
+    productName: 'iPhone 14',
+    price: 82000,
     productImage: product1,
   },
   {
     id: 2,
-    productName: "Macbook Pro 2022 (M1)",
-    price: 1999.0,
+    productName: 'Macbook Pro M1 2022',
+    price: 164000,
     productImage: product2,
   },
   {
     id: 3,
-    productName: "Cannon M50 Camera",
-    price: 699.0,
+    productName: 'Cannon M50 Camera',
+    price: 58000,
     productImage: product3,
   },
   {
     id: 4,
-    productName: "WLS Van Gogh Denim Jacket",
-    price: 228.0,
+    productName: 'WLS Van Gogh Denim Jacket',
+    price: 19000,
     productImage: product4,
   },
   {
     id: 5,
-    productName: "LED Light Strips",
-    price: 19.99,
+    productName: 'LED Light Strips',
+    price: 1600,
     productImage: product5,
   },
   {
     id: 6,
-    productName: "SPECTRUM LS TEE",
-    price: 68.0,
+    productName: 'Spectrun LS Tee',
+    price: 5600,
     productImage: product6,
   },
   {
     id: 7,
-    productName: "AUTO SERVICE SHIRT by GOLF WANG",
-    price: 120.0,
+    productName: 'Auto Service Shirt by Golf Wang',
+    price: 9800,
     productImage: product7,
   },
   {
     id: 8,
-    productName: "DON'T TRIP UNSTRUCTURED HAT",
-    price: 40.0,
+    productName: "Don't Trip Unstructured Hat",
+    price: 3300,
     productImage: product8,
   },
-];
+  {
+    id: 9,
+    productName: 'Nike Air Max',
+    price: 8999,
+    productImage: '',
+  },
+  {
+    id: 10,
+    productName: 'The Alchemist',
+    price: 399,
+    productImage: '',
+  },
+  {
+    id: 11,
+    productName: 'Samsung Galaxy S21 Ultra',
+    price: 105999,
+    productImage: '',
+  },
+  {
+    id: 12,
+    productName: 'Adidas Ultraboost 21',
+    price: 16999,
+    productImage: '',
+  },
+  {
+    id: 13,
+    productName: 'The Da Vinci Code',
+    price: 299,
+    productImage: '',
+  },
+]

@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React, { useContext } from "react";
 import { ShopContext } from "../../context/shop-context";
 
