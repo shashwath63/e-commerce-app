@@ -56,34 +56,5 @@ export const products = [
     price: 3300,
     productImage: product8,
   },
-  {
-    id: 9,
-    productName: 'Nike Air Max',
-    price: 8999,
-    productImage: '',
-  },
-  {
-    id: 10,
-    productName: 'The Alchemist',
-    price: 399,
-    productImage: '',
-  },
-  {
-    id: 11,
-    productName: 'Samsung Galaxy S21 Ultra',
-    price: 105999,
-    productImage: '',
-  },
-  {
-    id: 12,
-    productName: 'Adidas Ultraboost 21',
-    price: 16999,
-    productImage: '',
-  },
-  {
-    id: 13,
-    productName: 'The Da Vinci Code',
-    price: 299,
-    productImage: '',
-  },
+ 
 ]
